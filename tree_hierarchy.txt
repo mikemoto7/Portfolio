@@ -1,0 +1,27 @@
+top:{
+   Investments:[
+      { Investment:
+        { status:active,
+
+tree['top']['Investments'][3]['Investment']['status']
+
+         name_short:Vanguard Healthcare,
+         tvh_total_value:0.00,
+         account_ID:1234,
+         asset_class:Healthcare,
+         name:ABC Healthcare,
+         symbol:HC1,
+         file_line_num:3,
+         cost_basis[ # list
+            cb_purchase[ # list
+               cb_quantity:0.000,
+               cb_reason:TBD_cost_basis,
+               cb_total_value:0.00,
+               cb_date:TBD_cost_basis,
+               cb_share_price:0.00,
+            ], # list:cb_purchase
+         ], # list:cost_basis
+
+      ], # list:Investment
+   ], # list:Investments
+}, # dict:top

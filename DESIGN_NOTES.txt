@@ -1,0 +1,14 @@
+
+
+Workflow: Updating Master Investments List:
+
+- Save or screen-copy investment web page.
+- Convert to temp Investments list.
+- Use temp Investments list to update Master Investments list with quantity and share price.
+- Verify Investments lists formats are still the same.
+- Warn about losses.
+
+
+
+
+

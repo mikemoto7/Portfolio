@@ -1,0 +1,17 @@
+,Tot,Tot,Tot,Ret,Ret,Ret,Non_Ret,Non_Ret,Non_Ret
+,count,amt,pct,count,amt,pct,count,amt,pct
+Asset Classes,14,,,12,,,14,,
+None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None
+Vanguard,42,702614.1,80.37,25,405715.0,76.90,17,296899.1,85.65
+Fidelity,6,143322.7,16.39,4,121862.9,23.10,2,21459.8,6.19
+Schwab,1,28263.6,3.23,0,0.0,0.00,1,28263.6,8.15
+Totals,49,874200.4,99.99,29,527577.9,100.00,20,346622.5,99.99
+None,None,None,None,None,None,None,None,None,None
+None,None,None,None,None,None,None,None,None,None
+retirement_class,49,874200.4,100.00,29,527577.9,60.35,20,346622.5,39.65
+None,None,None,None,None,None,None,None,None,None
+owner2,26,438858.6,50.20,16,256247.1,48.57,10,182611.5,52.68
+owner1,23,435341.8,49.80,13,271330.8,51.43,10,164011.0,47.32
+Totals,49,874200.4,100.00,29,527577.9,100.00,20,346622.5,100.00
+None,None,None,None,None,None,None,None,None,None

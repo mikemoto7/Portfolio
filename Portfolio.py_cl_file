@@ -1,0 +1,21 @@
+# Demo runstrings:
+Portfolio.py --price_web_update --pt show --pfile demo_data_file.xml
+Portfolio.py --price_web_update --inv show --pfile demo_data_file.xml
+Portfolio.py --price_web_update --ac_web_update --pt show%lp%add:Small_Value,Retirement,13000%show_percent%lp_diff --pfile demo_data_file.xml
+# Real runstrings:
+Portfolio.py --price_web_update --pt show --pfile $Portfolio_xml_file
+Portfolio.py --price_web_update --pt lp --pfile $Portfolio_xml_file
+Portfolio.py --price_web_update --pt show_percent%lp%add:Large_Blend,Retirement,13000%show_percent%lp --pfile $Portfolio_xml_file
+Portfolio.py --price_web_update --ac_web_update --pt show%lp%add:Large_Blend,Retirement,13000%show%lp%show --pfile $Portfolio_xml_file
+Portfolio.py --price_web_update --inv show --pfile $Portfolio_xml_file
+Portfolio.py --price_web_update --inv diff --pfile $Portfolio_xml_file
+
+Portfolio.py --price_web_update --pt show_percent%lp%add:Small_Growth,Non_Retirement,30000:Energy,Non_Retirement,15000:Large_Value,Non_Retirement,15000:Global,Non_Retirement,15000:REIT,Non_Retirement,15000:Healthcare,Non_Retirement,15000%show_percent%lp_diff --pfile $Portfolio_xml_file
+
+Portfolio.py --price_web_update --pt add:Small_Growth,Non_Retirement,30000:Energy,Non_Retirement,15000:Large_Value,Non_Retirement,15000:Global,Non_Retirement,15000:REIT,Non_Retirement,15000:Healthcare,Non_Retirement,15000%lp_diff --pfile $Portfolio_xml_file
+
+Portfolio.py --price_web_update --pt show_ac_misc_totals --pfile $Portfolio_xml_file
+Portfolio.py --price_web_update --xml --pfile $Portfolio_xml_file
+ls; who; ps
+ls | grep foo
+vi foo
