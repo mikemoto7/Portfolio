@@ -1,0 +1,71 @@
+Asset,Symb,Own,iID,Account_ID,Ret_Class,Curr_Tot1,Curr_Tot2,ShPr1,ShPr2,Diff,Diff%
+---Energy---,,,,,,,,,,
+Vanguard Energy,VGELX,os1,20,15777,Non_Ret,19898.00,19106.00,99.49,95.53,-792.0,-3.98
+Vanguard Energy,VGENX,os1,42,35777,Trad_IRA,21208.00,20364.00,53.02,50.91,-844.0,-3.98
+Vanguard Energy,VGENX,os1,52,45777,Roth_IRA,26510.00,25455.00,53.02,50.91,-1055.0,-3.98
+Vanguard Energy,VGENX,os2,59,52777,Roth_IRA,30221.40,29018.70,53.02,50.91,-1202.7,-3.98
+---Global---,,,,,,,,,,
+Fidelity Canada,FICDX,os2,39,34777,Trad_IRA,19995.30,19258.20,51.27,49.38,-737.1,-3.69
+Vanguard Global Equity,VHGEX,os2,5,4777,SEP_IRA,2348.10,2511.00,26.09,27.9,162.9,6.94
+Vanguard Global Equity,VHGEX,os2,23,18777,Non_Ret,6000.70,6417.00,26.09,27.9,416.3,6.94
+Vanguard Global Equity,VHGEX,os2,47,40777,Trad_IRA,11740.50,12555.00,26.09,27.9,814.5,6.94
+Vanguard Global Equity,VHGEX,os1,58,51777,Trad_IRA,14610.40,15624.00,26.09,27.9,1013.6,6.94
+Vanguard Global Min Volatile,VMVFX,os1,24,19777,Non_Ret,2937.60,3072.00,12.24,12.8,134.4,4.58
+---Healthcare---,,,,,,,,,,
+Vanguard Healthcare,VGHAX,os2,1,777,SEP_IRA,4135.50,4303.00,82.71,86.06,167.5,4.05
+Vanguard Healthcare,VGHAX,os1,26,21777,Non_Ret,21504.60,22375.60,82.71,86.06,871.0,4.05
+---Individual_Stocks---,,,,,,,,,,
+Netflix,NFLX,os1,18,13777,Non_Ret,25878.60,28263.60,143.77,157.02,2385.0,9.22
+---Large_Blend---,,,,,,,,,,
+Vanguard Dividend Growth,VDIGX,os2,45,38777,Trad_IRA,10367.30,10719.90,24.11,24.93,352.6,3.4
+Vanguard Dividend Growth,VDIGX,os2,55,48777,Trad_IRA,12778.30,13212.90,24.11,24.93,434.6,3.4
+Vanguard Total Stock Mkt Idx,VTSAX,os2,35,30777,Non_Ret,20363.00,20846.00,58.18,59.56,483.0,2.37
+---Large_Growth---,,,,,,,,,,
+Fidelity Contrafund,FCNTX,os1,13,9777,Non_Ret,14644.00,15738.80,104.6,112.42,1094.8,7.48
+Fidelity Contrafund,FCNTX,os1,36,31777,Trad_IRA,37656.00,40471.20,104.6,112.42,2815.2,7.48
+Fidelity Contrafund,FCNTX,os1,38,33777,Trad_401K,39748.00,42719.60,104.6,112.42,2971.6,7.48
+Vanguard Growth Idx,VIGAX,os2,25,20777,Non_Ret,15197.50,16160.00,60.79,64.64,962.5,6.33
+---Large_Value---,,,,,,,,,,
+Vanguard Equity Income,VEIRX,os2,21,16777,Non_Ret,14628.60,14903.70,69.66,70.97,275.1,1.88
+Vanguard Equity Income,VEIPX,os1,46,39777,Trad_IRA,14621.20,14898.40,33.23,33.86,277.2,1.9
+Vanguard Equity Income,VEIPX,os2,57,50777,Trad_IRA,18276.50,18623.00,33.23,33.86,346.5,1.9
+---Mid_Blend_Aggress---,,,,,,,,,,
+Vanguard Extended Mkt Idx,VEXAX,os1,22,17777,Non_Ret,16662.80,16621.00,75.74,75.55,-41.8,-0.25
+Vanguard Mid-Cap Idx,VIMAX,os2,27,22777,Non_Ret,46213.20,46936.80,171.16,173.84,723.6,1.57
+Vanguard Strategic Equity,VSEQX,os2,33,28777,Non_Ret,11097.90,10876.80,33.63,32.96,-221.1,-1.99
+---Mid_Growth---,,,,,,,,,,
+Fidelity New Millennium,FMILX,os2,14,10777,Non_Ret,5613.00,5721.00,37.42,38.14,108.0,1.92
+Vanguard Capital Opportunity,VHCOX,os2,19,14777,Non_Ret,10831.90,11432.30,57.01,60.17,600.4,5.54
+Vanguard Capital Opportunity,VHCAX,os1,50,43777,Rollover,63168.00,66676.80,131.6,138.91,3508.8,5.55
+Vanguard Mid-Cap Growth,VMGRX,os1,8,7777,Trad_IRA,2817.60,2910.00,23.48,24.25,92.4,3.28
+Vanguard Mid-Cap Growth,VMGRX,os2,9,8777,Trad_IRA,3052.40,3152.50,23.48,24.25,100.1,3.28
+---Mid_Value---,,,,,,,,,,
+Fidelity Low-Priced Stock,FLPSX,os2,37,32777,Trad_IRA,18825.60,19413.90,50.88,52.47,588.3,3.12
+Vanguard Capital Value,VCVLX,os1,44,37777,Trad_IRA,5161.80,5178.60,12.29,12.33,16.8,0.33
+Vanguard Capital Value,VCVLX,os1,54,47777,Trad_IRA,6390.80,6411.60,12.29,12.33,20.8,0.33
+Vanguard Mid-Cap Value,VMVAX,os1,28,23777,Non_Ret,14677.60,14641.20,52.42,52.29,-36.4,-0.25
+Vanguard Selected Value,VASVX,os1,30,25777,Non_Ret,9027.00,9108.00,30.09,30.36,81.0,0.9
+---REIT---,,,,,,,,,,
+Vanguard REIT,VGSLX,os1,4,3777,SEP_IRA,9502.40,9324.80,118.78,116.56,-177.6,-1.87
+Vanguard REIT,VGSIX,os2,7,6777,Trad_IRA,3062.40,3005.20,27.84,27.32,-57.2,-1.87
+Vanguard REIT,VGSLX,os2,29,24777,Non_Ret,34446.20,33802.40,118.78,116.56,-643.8,-1.87
+Vanguard REIT,VGSIX,os2,43,36777,Trad_IRA,11414.40,11201.20,27.84,27.32,-213.2,-1.87
+Vanguard REIT,VGSLX,os2,49,42777,Trad_IRA,55826.60,54783.20,118.78,116.56,-1043.4,-1.87
+---Small_Blend---,,,,,,,,,,
+Vanguard Small Idx,NAESX,os2,3,2777,Trad_IRA,4477.20,4439.40,63.96,63.42,-37.8,-0.84
+Vanguard Tax-Managed Sml Val,VTMSX,os1,34,29777,Non_Ret,19019.60,18550.40,55.94,54.56,-469.2,-2.47
+---Small_Growth---,,,,,,,,,,
+Vanguard Small Growth,VSGAX,os2,51,44777,Rollover,24093.30,24524.50,49.17,50.05,431.2,1.79
+Vanguard Small Growth,VSGAX,os2,53,46777,Roth_IRA,25076.70,25525.50,49.17,50.05,448.8,1.79
+Vanguard Small Growth Idx,VSGAX,os2,31,26777,Non_Ret,15242.70,15515.50,49.17,50.05,272.8,1.79
+Vanguard Small Growth Idx,VISGX,os1,48,41777,Trad_IRA,18091.80,18413.80,39.33,40.03,322.0,1.78
+---Small_Value---,,,,,,,,,,
+Vanguard Small-Cap Val Idx,VISVX,os1,6,5777,Trad_IRA,2970.00,2883.00,29.7,28.83,-87.0,-2.93
+Vanguard Small-Cap Val Idx,VSIAX,os1,32,27777,Non_Ret,17036.80,16534.40,53.24,51.67,-502.4,-2.95
+---Stats---,,,,,,,,,,
+Totals,49,,,,,859068.8,874200.4,,,15131.6,
+Totals diff percent,,,,,,,,,,,1.76
+Avg diff percent,,,,,,,,,,,1.75
+Count pos diff percent,,,,,,,,,,,32
+Count neg diff percent,,,,,,,,,,,17
+Count neutral diff percent,,,,,,,,,,,0

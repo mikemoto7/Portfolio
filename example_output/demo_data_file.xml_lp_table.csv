@@ -1,0 +1,17 @@
+,Sorted,,,,,Sorted,,,,,Sorted
+Asset,Tot_%,Ret_%,Non_%,Asset,Tot_%,Ret_%,Non_%,Asset,Tot_%,Ret_%,Non_%
+Small_Value,2.22,0.55,4.77,Mid_Blend_Aggress,8.51,0.00,21.47,Global,6.80,9.47,2.74
+Small_Blend,2.63,0.84,5.35,Small_Value,2.22,0.55,4.77,Large_Value,5.54,6.35,4.30
+Healthcare,3.05,0.82,6.46,Healthcare,3.05,0.82,6.46,Small_Growth,9.61,12.98,4.48
+Large_Blend,5.12,4.54,6.01,Small_Blend,2.63,0.84,5.35,Small_Value,2.22,0.55,4.77
+Large_Value,5.54,6.35,4.30,Large_Blend,5.12,4.54,6.01,Mid_Growth,10.28,13.79,4.95
+Mid_Value,6.26,5.88,6.85,Mid_Value,6.26,5.88,6.85,Small_Blend,2.63,0.84,5.35
+Global,6.80,9.47,2.74,Large_Value,5.54,6.35,4.30,Energy,10.75,14.19,5.51
+Mid_Blend_Aggress,8.51,0.00,21.47,Global,6.80,9.47,2.74,Large_Blend,5.12,4.54,6.01
+Small_Growth,9.61,12.98,4.48,Small_Growth,9.61,12.98,4.48,Healthcare,3.05,0.82,6.46
+Mid_Growth,10.28,13.79,4.95,Mid_Growth,10.28,13.79,4.95,Mid_Value,6.26,5.88,6.85
+Energy,10.75,14.19,5.51,Energy,10.75,14.19,5.51,Large_Growth,13.17,15.77,9.20
+REIT,12.83,14.84,9.75,REIT,12.83,14.84,9.75,REIT,12.83,14.84,9.75
+Large_Growth,13.17,15.77,9.20,Large_Growth,13.17,15.77,9.20,Mid_Blend_Aggress,8.51,0.00,21.47
+Individual_Stocks,3.23,0.00,8.15,Individual_Stocks,3.23,0.00,8.15,Individual_Stocks,3.23,0.00,8.15
+Totals,100.00,100.02,99.99,Totals,100.00,100.02,99.99,Totals,100.00,100.02,99.99
