@@ -1,0 +1,28 @@
+
+(venv_python3) mi@mi-PC():/cygdrive/c/Users/mi/Documents/Computer/Python/projects: module_tree.py --user_created Portfolio/Portfolio.py
+Portfolio/Portfolio.py
+   Portfolio/Investment.py
+      Portfolio/Money.py
+         lib/logging_wrappers.py
+      Portfolio/traverse_Python_data_tree.py
+      lib/logging_wrappers.py
+   Portfolio/Money.py
+      lib/logging_wrappers.py
+   Portfolio/traverse_Python_data_tree.py
+   lib/logging_wrappers.py
+   lib/columnize_output.py
+      lib/logging_wrappers.py
+   Portfolio/get_stock_info.py
+      lib/launch_threads.py
+         lib/logging_wrappers.py
+      lib/logging_wrappers.py
+      lib/command_list.py
+   lib/csv2html.py
+      lib/get_csv.py
+         lib/logging_wrappers.py
+   lib/command_list.py
+   lib/trace_mi.py
+   lib/printoutput.py
+   lib/printoutput.py
+   Portfolio/test_flags.py
+
